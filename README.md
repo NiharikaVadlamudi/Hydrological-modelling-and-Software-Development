@@ -10,4 +10,4 @@ This is an extensive ML based Drought Tool that predicts Water Runoff & other me
   - torch
 Note : Cartopy Installation are mandotory for visualisation
 * Acknowledgements 
-We thank our course instructor Rehana Sheikh for giving us the oppurtunity to explore various domain of weather forecasting and prediction . This course projectwas a team effort supervised by our teaching assisants -Sushant and Pranathi .   
+We thank our course instructor Rehana Sheikh for giving us the oppurtunity to explore various domain of weather forecasting and prediction . This course projectwas a team effort supervised by our teaching assisants -Sushanth and Pranathi .   
