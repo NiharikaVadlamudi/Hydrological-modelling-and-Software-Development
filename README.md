@@ -1,4 +1,4 @@
-# Hydrological-modelling-and-Software-Development
+# CEW 613 - Hydrological-modelling-and-Software-Development
 * Course Project Description : 
 This is an extensive ML based Drought Tool that predicts Water Runoff & other metrics . The dataset was collected from UNESCO Environment's program :  GEMStat , that allows extensive data on climate , water quality , etc.  
 * Required Libraries :  
